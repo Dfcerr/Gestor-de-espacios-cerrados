@@ -12,5 +12,7 @@ Para probar el proyecto se puede igresar directamente desde el archivo proteus. 
 En caso de querer volver a exportar el codigo sera necesario incluir las librerias dentro de la carpeta "LIBRERIAS ARDUINO"
 # Lectura de tarjeta SD
 Para leer la tarjeta SD sera necesario instalar "wima64100" el cual esat en la carpeta "Instalador para lectura de SD", luego de eso con la aplicacion abrir "SD.IMA" el cual es una imagen de una SD donde se encontrara un archivo de texto con la informacion recopilada
+# Proteus
+El archivo de proteus (.pdsprj) contiene dos hojas, para ver la segunda ir a DESIGN——> Root sheet 2
 # Ingresar al Master
 https://github.com/Dfcerr/Gestor-de-espacios-cerrados/tree/master
