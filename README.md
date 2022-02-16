@@ -14,5 +14,6 @@ En caso de querer volver a exportar el codigo sera necesario incluir las libreri
 Para leer la tarjeta SD sera necesario instalar "wima64100" el cual esat en la carpeta "Instalador para lectura de SD", luego de eso con la aplicacion abrir "SD.IMA" el cual es una imagen de una SD donde se encontrara un archivo de texto con la informacion recopilada
 # Proteus
 El archivo de proteus (.pdsprj) contiene dos hojas, para ver la segunda ir a DESIGN——> Root sheet 2
+![ad990d75-7e4f-4cca-b23b-60b7ddb02546](https://user-images.githubusercontent.com/83226453/154174010-e75f638f-b949-4ef0-8492-3be6c6d27267.jpg)
 # Ingresar al Master
 https://github.com/Dfcerr/Gestor-de-espacios-cerrados/tree/master
